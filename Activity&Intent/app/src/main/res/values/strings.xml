@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">您选择的答案是：</string>
+    <string name="app_name">xml布局测试</string>
+    <string name="sure">确定</string>
+    <string name="cancel">取消</string>
+    <string name="question">提示：选择A</string>
+    <string name="other">otherActivity</string>
+</resources>
